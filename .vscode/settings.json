@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOENV": "/home/codespace/.config/go/env",
+        "GOMODCACHE": "/go/pkg/mod"
+    }
+}
